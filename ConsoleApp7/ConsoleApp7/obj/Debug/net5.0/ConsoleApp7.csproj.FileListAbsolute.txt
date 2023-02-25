@@ -1,0 +1,16 @@
+C:\Users\User\OneDrive\Masaüstü\Masaüstü\İbrahim Can Gülşen\ConsoleApp7\ConsoleApp7\bin\Debug\net5.0\ConsoleApp7.exe
+C:\Users\User\OneDrive\Masaüstü\Masaüstü\İbrahim Can Gülşen\ConsoleApp7\ConsoleApp7\bin\Debug\net5.0\ConsoleApp7.deps.json
+C:\Users\User\OneDrive\Masaüstü\Masaüstü\İbrahim Can Gülşen\ConsoleApp7\ConsoleApp7\bin\Debug\net5.0\ConsoleApp7.runtimeconfig.json
+C:\Users\User\OneDrive\Masaüstü\Masaüstü\İbrahim Can Gülşen\ConsoleApp7\ConsoleApp7\bin\Debug\net5.0\ConsoleApp7.runtimeconfig.dev.json
+C:\Users\User\OneDrive\Masaüstü\Masaüstü\İbrahim Can Gülşen\ConsoleApp7\ConsoleApp7\bin\Debug\net5.0\ConsoleApp7.dll
+C:\Users\User\OneDrive\Masaüstü\Masaüstü\İbrahim Can Gülşen\ConsoleApp7\ConsoleApp7\bin\Debug\net5.0\ConsoleApp7.pdb
+C:\Users\User\OneDrive\Masaüstü\Masaüstü\İbrahim Can Gülşen\ConsoleApp7\ConsoleApp7\obj\Debug\net5.0\ConsoleApp7.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Masaüstü\Masaüstü\İbrahim Can Gülşen\ConsoleApp7\ConsoleApp7\obj\Debug\net5.0\ConsoleApp7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Masaüstü\Masaüstü\İbrahim Can Gülşen\ConsoleApp7\ConsoleApp7\obj\Debug\net5.0\ConsoleApp7.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Masaüstü\Masaüstü\İbrahim Can Gülşen\ConsoleApp7\ConsoleApp7\obj\Debug\net5.0\ConsoleApp7.AssemblyInfo.cs
+C:\Users\User\OneDrive\Masaüstü\Masaüstü\İbrahim Can Gülşen\ConsoleApp7\ConsoleApp7\obj\Debug\net5.0\ConsoleApp7.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Masaüstü\Masaüstü\İbrahim Can Gülşen\ConsoleApp7\ConsoleApp7\obj\Debug\net5.0\ConsoleApp7.dll
+C:\Users\User\OneDrive\Masaüstü\Masaüstü\İbrahim Can Gülşen\ConsoleApp7\ConsoleApp7\obj\Debug\net5.0\refint\ConsoleApp7.dll
+C:\Users\User\OneDrive\Masaüstü\Masaüstü\İbrahim Can Gülşen\ConsoleApp7\ConsoleApp7\obj\Debug\net5.0\ConsoleApp7.pdb
+C:\Users\User\OneDrive\Masaüstü\Masaüstü\İbrahim Can Gülşen\ConsoleApp7\ConsoleApp7\obj\Debug\net5.0\ConsoleApp7.genruntimeconfig.cache
+C:\Users\User\OneDrive\Masaüstü\Masaüstü\İbrahim Can Gülşen\ConsoleApp7\ConsoleApp7\obj\Debug\net5.0\ref\ConsoleApp7.dll
